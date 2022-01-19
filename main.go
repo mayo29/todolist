@@ -11,7 +11,7 @@ func multiply(num1 int, num2 int) int {
 }
 
 func subtract(num1 int, num2 int) int {
-	return num1 - num2
+	return num1 + num2
 }
 
 func divide(num1 float64, num2 float64) float64 {
